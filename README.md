@@ -1,2 +1,2 @@
 # olio-ohjelmointi
-Olio-ohjelmoinnin Kurssin tehtävät
+Olio-ohjelmointi kurssin tehtävät
