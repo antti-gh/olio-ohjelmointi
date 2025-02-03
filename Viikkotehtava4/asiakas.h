@@ -22,4 +22,4 @@ public:
     bool tiliSiirto(double amount, Asiakas &vastaanottaja);
 };
 
-#endif // ASIAKAS_H
+#endif
